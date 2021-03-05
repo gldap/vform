@@ -1,0 +1,16 @@
+# ignore node_modules folder
+node_modules
+
+# ingore all text files
+.txt
+
+# Ignore files related to API keys
+.env
+
+# Ignore Sass config files
+.sass-cache
+
+npm-debug.log
+
+.tmp
+*.log
